@@ -1,6 +1,4 @@
 services:
-    app:
-        image: flavinoutheone/hello-app
     server:
         build: ./server
         ports: 
